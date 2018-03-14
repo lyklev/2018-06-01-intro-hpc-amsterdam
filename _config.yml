@@ -6,10 +6,10 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Introduction to High-Performance Computing"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: courses@surfsara.nl
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
